@@ -1,0 +1,19 @@
+{
+  "name": "remine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maniram3112/Remine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maniram3112/Remine/issues"
+  },
+  "homepage": "https://github.com/maniram3112/Remine#readme"
+}
